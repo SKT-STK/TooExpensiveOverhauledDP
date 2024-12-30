@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:diamond_boots",
+    "addition": "minecraft:echo_shard",
+    "template": "minecraft:jigsaw",
+    "result": {
+        "id": "minecraft:diamond_boots",
+        "components": {
+            "!minecraft:repair_cost": {}
+        }
+    }
+}

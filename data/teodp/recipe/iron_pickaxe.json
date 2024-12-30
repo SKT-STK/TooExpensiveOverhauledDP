@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:iron_pickaxe",
+    "addition": "minecraft:echo_shard",
+    "template": "minecraft:jigsaw",
+    "result": {
+        "id": "minecraft:iron_pickaxe",
+        "components": {
+            "!minecraft:repair_cost": {}
+        }
+    }
+}

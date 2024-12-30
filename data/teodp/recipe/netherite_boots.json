@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:netherite_boots",
+    "addition": "minecraft:echo_shard",
+    "template": "minecraft:jigsaw",
+    "result": {
+        "id": "minecraft:netherite_boots",
+        "components": {
+            "!minecraft:repair_cost": {}
+        }
+    }
+}

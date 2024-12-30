@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "teorp:item/end_cleaner_smithing_template"
+  }
+}

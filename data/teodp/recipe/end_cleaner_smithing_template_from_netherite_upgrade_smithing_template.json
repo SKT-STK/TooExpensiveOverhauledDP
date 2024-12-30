@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@#@",
+    "@$@",
+    "@@@"
+  ],
+  "key": {
+    "@": "minecraft:diamond",
+    "#": "minecraft:netherite_upgrade_smithing_template",
+    "$": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "minecraft:jigsaw",
+    "count": 1,
+    "components": {
+      "item_name": "\"End Cleaner\"",
+      "item_model": "teorp:end_cleaner_smithing_template",
+      "rarity": "uncommon",
+      "minecraft:lore": [
+        "{\"text\":\"Applies to:\",\"color\":\"gray\",\"italic\":false}",
+        "{\"text\":\" Iron, Diamond & Netherite Equipment\",\"color\":\"blue\",\"italic\":false}",
+        "{\"text\":\"Ingredients:\",\"color\":\"gray\",\"italic\":false}",
+        "{\"text\":\" Echo Shard\",\"color\":\"blue\",\"italic\":false}"
+      ]
+    }
+  }
+}
